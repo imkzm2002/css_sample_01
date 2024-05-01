@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+background-color: #ffd700;
+}
+
+#wrap{
+    width: 960px;
+    margin: auto;
+    background-color: #ffff00;
+}
+
+header{
+    padding: 40px;
+    height: 80px;
+}
+
+nav{
+    padding: 8px 40px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+main{
+    padding: 40px;
+    height: 400px;
+}
+
+footer{
+    padding: 40px;
+    height: 40px;
+    background-color: #000000;
+    color: #ffffff;
+}
